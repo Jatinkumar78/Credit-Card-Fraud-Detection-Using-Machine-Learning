@@ -38,6 +38,9 @@ the methodology for fair comparison.
 
 Dataset file used: creditcard.csv
 
+✅ NOTE: This is a Kaggle dataset. You can download it from here:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 ------------------------------------------------------------------------
 
 ## 🧠 Algorithms Implemented
